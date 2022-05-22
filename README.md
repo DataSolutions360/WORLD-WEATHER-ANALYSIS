@@ -39,6 +39,14 @@ inefficiency in the route below.
 
 ![image](https://user-images.githubusercontent.com/8845050/169706429-e6288d98-46ed-4653-a883-3337fbca993f.png)
 
+# Resources
+- Python 3
+- OpenWeatherMap
+- Google CLoud Platofrm
+- Jupyter Notebook
+- Pandas
+- Anaconda 
+
 
 
 

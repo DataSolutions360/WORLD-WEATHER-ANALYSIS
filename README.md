@@ -29,7 +29,7 @@ Deliverable 2.
 Google Cloud Platform was utilized to identify potential travel destinations and potential hotels for travelers.  
 Hotels were added as markers around the world in order to give travelers options 
 
-![image](https://user-images.githubusercontent.com/8845050/169703489-946d59cb-3ef9-4319-be46-6f34a63da19d.png)
+![RUSSIA](https://user-images.githubusercontent.com/8845050/169706339-2cd8b5f6-28d2-4108-b036-efe7f92685b8.png)
 
 ## Deliverable 3
 Google Directions API was used to create a travel itinerary  showing a road trip route.  As you can see, the group 
@@ -37,6 +37,7 @@ did not plan the most logistically sound, sequentially organized, route.  After 
 re-arrange the order of the destinations, they explained that they were going to a wedding, which explains the 
 inefficiency in the route below.
 
+![image](https://user-images.githubusercontent.com/8845050/169706429-e6288d98-46ed-4653-a883-3337fbca993f.png)
 
 
 
